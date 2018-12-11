@@ -47,7 +47,7 @@ export class MoodleMobileApp implements OnInit {
                 statusBar.styleDefault();
             }
 
-            keyboard.hideKeyboardAccessoryBar(false);
+            keyboard.hide();
         });
 
     }

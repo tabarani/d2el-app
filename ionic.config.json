@@ -1,10 +1,10 @@
 {
   "name": "moodlemobile",
-  "app_id": "sd.d2el.elearning",
-  "type": "ionic-angular",
   "integrations": {
     "cordova": {},
     "gulp": {}
   },
-  "watchPatterns": []
+  "type": "ionic-angular",
+  "watchPatterns": [],
+  "id": "sd.d2el.elearning"
 }
